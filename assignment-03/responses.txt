@@ -1,1 +1,3 @@
 This is where you will answer the questions in the homework.
+1. The advantage of using a Text editor is its user-friendliness, as it is simple to use and makes coding and developing easier to manage.
+2. A relative URL is usually a short and abbreviated version of an absolute URL, as an absolute URL is a type of URL that includes a full text message to a link. 
